@@ -39,8 +39,8 @@ from the project root.
 
 ## Some query examples
 
-* [https://ide.bitquery.io/Query-max-tx-hash-value_1](Bitcoin TX fees by date)
-* [https://ide.bitquery.io/Query-max-transfers-in-ETH-today](Query max transfers in ETH today)
-* [https://explorer.bitquery.io/ethereum/address/0xa09871aeadf4994ca12f5c0b6056bbd1d343c029/graph?from=2017-03-01&till=2023-03-23](Upbit hacker money flow)
-* [https://explorer.bitquery.io/ethereum/token/0xdac17f958d2ee523a2206206994597c13d831ec7/token_dex_trades](USDT live trades)
+* [Bitcoin TX fees by date](https://ide.bitquery.io/Query-max-tx-hash-value_1)
+* [Query max transfers in ETH today](https://ide.bitquery.io/Query-max-transfers-in-ETH-today)
+* [Upbit hacker money flow](https://explorer.bitquery.io/ethereum/address/0xa09871aeadf4994ca12f5c0b6056bbd1d343c029/graph?from=2017-03-01&till=2023-03-23)
+* [USDT live trades](https://explorer.bitquery.io/ethereum/token/0xdac17f958d2ee523a2206206994597c13d831ec7/token_dex_trades)
 
