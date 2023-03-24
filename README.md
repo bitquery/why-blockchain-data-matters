@@ -37,7 +37,10 @@ jupyter-lab
 from the project root.
 
 
+## Some query examples
 
+* [https://ide.bitquery.io/Query-max-tx-hash-value_1](Bitcoin TX fees by date)
+* [https://ide.bitquery.io/Query-max-transfers-in-ETH-today](Query max transfers in ETH today)
 
 
 
