@@ -1,4 +1,4 @@
-# Why Blockchain Data Matters
+# How Data Tells the Story of Blockchain
 
 *Materials for the meetup*
 
