@@ -13,6 +13,7 @@ In addition, you will need to install packages:
 * pip install wordcloud
 * pip install pandas
 * pip install python-dotenv
+* pip install mplcursors
 
 Next, you need API keys to get data from 2 sources: Bitquery and Cryprorank.
 
