@@ -15,7 +15,7 @@ In addition, you will need to install packages:
 * pip install python-dotenv
 * pip install mplcursors
 
-Next, you need API keys to get data from 2 sources: Bitquery and Cryprorank.
+Next, you need API keys to get data from 2 sources: Bitquery and Cryptorank.
 
 
 Create .env file in the project root with the variables:
